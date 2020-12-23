@@ -1,0 +1,1 @@
+[Design patterns in Typescript](https://refactoring.guru/pt-br/design-patterns)
